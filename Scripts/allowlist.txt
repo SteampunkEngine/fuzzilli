@@ -1,0 +1,3 @@
+# Only instrument the following source files
+
+src:compiler/*
